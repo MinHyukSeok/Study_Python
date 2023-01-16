@@ -1,1 +1,1 @@
-# Python-study
+Python 강의 자료
