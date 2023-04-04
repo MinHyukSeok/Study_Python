@@ -1,1 +1,1 @@
-Python 강의 자료
+Python Study 자료를 목차별로 정리한 저장소입니다.
